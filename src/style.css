@@ -1,0 +1,12 @@
+/* This is a CSS file */
+.box {
+  width: 60px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 30%;
+  background: rgb(219, 152, 152);
+  cursor: pointer;
+  margin: 5px;
+}
+
